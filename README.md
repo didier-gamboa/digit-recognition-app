@@ -43,13 +43,14 @@ Draw a digit between 0 and 9 on the canvas, click **Classify!**, and see the pre
 ```bash
 git clone https://github.com/your-username/digit-recognition-app.git
 cd digit-recognition-app
+```
 
 ### **2. Create Conda Enviroment**
 ```bash
 conda env create -f ./env/environment.yaml
 conda activate digit-recognition
 ```
-### **3. Start the application
+### **2. Start the application**
 Run both the backend and frontend using the `main.py` launcher:
 ```bash
 python main.py
