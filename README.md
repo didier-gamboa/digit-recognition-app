@@ -69,7 +69,6 @@ python main.py
 │   ├── main.py                # FastAPI backend entry point
 │   ├── models/
 │   │   └── ocr_model.h5       # Saved Keras model
-│   ├── requirements.txt       # Backend dependencies
 ├── 📂 frontend/
 │   ├── app.py                 # Streamlit frontend entry point
 │   └── assets/                # Optional resources (e.g., screenshots)
