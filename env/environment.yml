@@ -1,4 +1,4 @@
-name: ocr_webapp
+name: digit-recognition
 channels:
   - conda-forge
   - defaults

@@ -41,7 +41,7 @@ Draw a digit between 0 and 9 on the canvas, click **Classify!**, and see the pre
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/digit-recognition-app.git
+git clone https://github.com/didier-gamboa/digit-recognition-app.git
 cd digit-recognition-app
 ```
 
